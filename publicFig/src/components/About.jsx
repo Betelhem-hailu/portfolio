@@ -74,7 +74,6 @@ export const About = () => {
             <div className="animate-pluse left-[0px] top-[0px] h-[250px] w-[250px] rounded-full bg-gradient-to-l from-[#EF98A4] via-[#E87D86] to-[#D46670] md:h-[400px] md:w-[400px]"></div>
             <img
               className="absolute top-[30px] h-[200px] w-[200px] rounded-full object-cover md:h-[350px] md:w-[350px]"
-              // src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image.jpg"
               src={profile}
               alt=""
             />
