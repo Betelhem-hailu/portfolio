@@ -16,17 +16,35 @@ export const About = () => {
             </h1>
           </div>
           <div className="flex w-full flex-col px-[20px] pt-[20px] md:px-[40px]">
-            <p className="h-[200px] py-2 font-medium text-gray-700 dark:text-white">
+            <p className="min-h-[200px] py-2 font-medium text-gray-700 dark:text-white">
               Hi!
               <br />
-              My Name is <span>Betelhem Hailu</span>
+              My name is <span className="text-[#EF98A4] font-bold">Betelhem Hailu. </span>
+              I am a <span className="text-[#EF98A4] font-bold">Full Stack Developer</span> with a strong foundation in frontend
+              development and current experience as a backend developer. My
+              career path shows a strong interest in cloud engineering, pushing
+              me to learn more and become skilled in this area. I have
+              successfully contributed to various projects, including
+              internships and collaborative team efforts, showcasing my ability
+              to deliver innovative and efficient solutions.
+              <br /><br />I have technical skills in cybersecurity, especially in
+              ethical hacking. I also add value with a good understanding of
+              UI/UX design, which I learned in a product design bootcamp. I'm
+              skilled in tools like Figma, which helps me connect functionality
+              and user experience. <br /><br />Driven by a passion for continuous learning,
+              I actively pursue knowledge in emerging technologies to enhance
+              both my technical and communication skills. My ultimate ambition
+              is to be part of impactful projects on a national and
+              international scale, specializing as a cloud engineer. To this
+              end, I am committed to expanding my expertise through hands-on
+              experience and professional development.
             </p>
             <button
               type="button"
               className="mb-2 me-2 animate-pulse place-self-end rounded-3xl bg-gradient-to-r from-[#EF98A4] via-[#E87D86] to-[#D46670] px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gradient-to-br focus:outline-none focus:ring-4 focus:ring-[#F2AAB3] dark:focus:ring-[#C35C68]"
             >
               <a
-                href="./Betelhem-Hailu-Resume.pdf" 
+                href="./Betelhem-Hailu-Resume.pdf"
                 download="Betelhem_Hailu_CV"
                 className="text-white"
               >

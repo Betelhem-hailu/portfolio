@@ -21,19 +21,5 @@ export const Works = [
     image: blog_demo,
     githubLink: "https://github.com/Betelhem-hailu/blogApp",
     demoLink: "https://demo.com",
-  },
-  {
-    id: 4,
-    title: "Project 2",
-    image: "https://via.placeholder.com/150",
-    githubLink: "https://github.com",
-    demoLink: "https://demo.com",
-  },
-  {
-    id: 5,
-    title: "Project 2",
-    image: "https://via.placeholder.com/150",
-    githubLink: "https://github.com",
-    demoLink: "https://demo.com",
-  },
+  }
 ];
